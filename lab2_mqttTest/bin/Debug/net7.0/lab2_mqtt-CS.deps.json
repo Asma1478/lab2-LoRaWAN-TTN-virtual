@@ -1,0 +1,78 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "lab2_mqtt-CS/1.0.0": {
+        "dependencies": {
+          "MQTTnet.AspNetCore": "4.1.4.563",
+          "MQTTnet.Extensions.ManagedClient": "4.1.4.563"
+        },
+        "runtime": {
+          "lab2_mqtt-CS.dll": {}
+        }
+      },
+      "MQTTnet/4.1.4.563": {
+        "runtime": {
+          "lib/net6.0/MQTTnet.dll": {
+            "assemblyVersion": "4.1.4.563",
+            "fileVersion": "4.1.4.563"
+          }
+        }
+      },
+      "MQTTnet.AspNetCore/4.1.4.563": {
+        "dependencies": {
+          "MQTTnet": "4.1.4.563"
+        },
+        "runtime": {
+          "lib/net6.0/MQTTnet.AspNetCore.dll": {
+            "assemblyVersion": "4.1.4.563",
+            "fileVersion": "4.1.4.563"
+          }
+        }
+      },
+      "MQTTnet.Extensions.ManagedClient/4.1.4.563": {
+        "dependencies": {
+          "MQTTnet": "4.1.4.563"
+        },
+        "runtime": {
+          "lib/net6.0/MQTTnet.Extensions.ManagedClient.dll": {
+            "assemblyVersion": "4.1.4.563",
+            "fileVersion": "4.1.4.563"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lab2_mqtt-CS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MQTTnet/4.1.4.563": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gO9segUcKyQJcjV7w7OOdoAIkec7cUN65vEhYutbdWcj4rbtz/oL/RDvQVVbameXc6ChkjKx7/HbO+R8ejAUZQ==",
+      "path": "mqttnet/4.1.4.563",
+      "hashPath": "mqttnet.4.1.4.563.nupkg.sha512"
+    },
+    "MQTTnet.AspNetCore/4.1.4.563": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jbwxw2dmOmuJORbrxFi+rJKKvOvAkAFdASVtBoHEynUT7gwnpO7j+XzqScLHHU6JYYAMmXVb+p8zCQggcKEWvg==",
+      "path": "mqttnet.aspnetcore/4.1.4.563",
+      "hashPath": "mqttnet.aspnetcore.4.1.4.563.nupkg.sha512"
+    },
+    "MQTTnet.Extensions.ManagedClient/4.1.4.563": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QgrSDz12YnVUdbV5Wu1tP9sgTRUJbN4jZUsHC2Bh93tAPf+6vPaeq2WAEPoyJ7MjCadyGSW0n4QFyCjgNG8Odg==",
+      "path": "mqttnet.extensions.managedclient/4.1.4.563",
+      "hashPath": "mqttnet.extensions.managedclient.4.1.4.563.nupkg.sha512"
+    }
+  }
+}

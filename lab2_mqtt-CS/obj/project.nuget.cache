@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "P/r0XjQbWsVlXbr6Dl/HnW9yHwcZtqwzWFwIhcBXYTHXbFgyo/cTs1enpDVwjuiiFUbYKLgks3atdhubJjRMBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asma\\OneDrive\\Skrivbord\\IoT\\lab2-LoRaWAN-TTN-virtual\\lab2_mqtt-CS\\lab2_mqtt-CS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asma\\.nuget\\packages\\mqttnet\\4.1.4.563\\mqttnet.4.1.4.563.nupkg.sha512",
+    "C:\\Users\\Asma\\.nuget\\packages\\mqttnet.aspnetcore\\4.1.4.563\\mqttnet.aspnetcore.4.1.4.563.nupkg.sha512",
+    "C:\\Users\\Asma\\.nuget\\packages\\mqttnet.extensions.managedclient\\4.1.4.563\\mqttnet.extensions.managedclient.4.1.4.563.nupkg.sha512"
+  ],
+  "logs": []
+}
